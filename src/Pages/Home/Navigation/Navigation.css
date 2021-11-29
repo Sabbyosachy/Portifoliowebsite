@@ -1,0 +1,19 @@
+
+.bars{
+    color:black;
+}
+.navs{
+    text-decoration: none;
+    color:white;
+    font-weight: 600;
+    margin: 10px 15px;
+    font-size: 16px;
+}
+.navs:hover{
+    color: white;
+}
+
+.navs1{
+    color:white;
+    font-weight: 700; 
+}

@@ -1,0 +1,76 @@
+[
+
+    {
+      "id": "1",
+      "title": "Netlify",
+      "image": " https://i.ibb.co/ZGYykk1/1.jpg"
+      
+    },
+    {
+      "id": "2",
+      "title": "Github",
+      "image": "https://i.ibb.co/mF6Q6tC/2.jpg"
+      
+    },
+    {
+      "id": "3",
+      "title": "Tailwind",
+      "image": "https://i.ibb.co/g60tQ1h/3.png"
+      
+    },
+    {
+      "id": "4",
+      "title": "Bootstrap",
+      "image": "https://i.ibb.co/9qFWtpS/4.jpg"
+      
+    },
+    {
+      "id": "5",
+      "title": "React.js",
+      "image": "https://i.ibb.co/71Cjzkb/5.png"
+      
+    },
+    {
+      "id": "6",
+      "title": "Node.js",
+      "image": "https://i.ibb.co/wRfB50c/Node-js-emblem.jpg"
+      
+    },
+    {
+      "id": "7",
+      "title": "Express.js",
+      "image": "https://i.ibb.co/WFgsd39/7.png"
+      
+    },
+    {
+      "id": "8",
+      "title": "MongoDB",
+      "image": "https://i.ibb.co/bJ4DLdx/8.png"
+      
+    },
+    {
+      "id": "9",
+      "title": "HTML",
+      "image": "https://i.ibb.co/XV9TPsc/9.png"
+      
+    },
+    {
+      "id": "10",
+      "title": "CSS",
+      "image": "https://i.ibb.co/Tmgznp1/10.png"
+      
+    },
+    {
+      "id": "11",
+      "title": "Firebase",
+      "image": "https://i.ibb.co/v4ptnnY/11.png"
+      
+    },
+    {
+      "id": "12",
+      "title": "Heroku",
+      "image": "https://i.ibb.co/jwbh365/12.png"
+      
+    }
+    
+]
