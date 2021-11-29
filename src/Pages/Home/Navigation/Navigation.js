@@ -16,6 +16,7 @@ const Navigation = () => {
       <NavLink className="navs"  to="/">Home</NavLink>
       <HashLink className="navs" smooth to="/#about">About</HashLink>
       <HashLink className="navs" smooth to="/#projects">Projects</HashLink>
+      <HashLink className="navs" smooth to="/#servises">Services</HashLink>
       <HashLink className="navs" to="/#contact">Contact</HashLink>
     </Nav>
     </Navbar.Collapse>

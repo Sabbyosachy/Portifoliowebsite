@@ -4,3 +4,24 @@
 .aboutinfo{
     margin-top: 60px;
 }
+.element-about{
+    background-color: #191919;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.description1{
+    color: white;
+    text-align: justify;
+    margin-top: 15px;
+}
+.name1{
+    color: white;
+    font-size: 13px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.about-title{
+    color: white;
+}

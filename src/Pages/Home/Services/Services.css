@@ -1,0 +1,27 @@
+.serv-tit{
+    margin: 20px 0px;
+    font-weight: 700;
+    font-size: 20px;
+}
+.serv-subtitle{
+    padding: 0px 30px;
+    text-align: justify;
+}
+.bgrs{
+    padding: 10px;
+    background-color:#191919;
+    color: white;
+    border-radius: 20px;
+}
+.bgr{
+    padding: 10px;
+    background-color: rgb(255, 252, 252);
+    border-radius: 20px;
+}
+.srimg{
+    border-radius: 10px;
+    transition: 0.8s;
+}
+.srimg:hover{
+    transform: scale(1.1);
+}

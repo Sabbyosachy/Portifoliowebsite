@@ -2,6 +2,21 @@
     font-size: 25px;
     font-weight: 700;
     margin: 20px 0px;
+    color: white;
+    padding-left: 30px;
+}
+.contactinfo{
+    color: white;
+    padding-left: 30px;
+}
+.contactinfo1{
+    color: white;
+    padding-left: 30px;
+    font-size: 40px;
+    margin-top: 50px;
+}
+.fas{
+    font-size: 20px;
 }
 
 form{
@@ -9,9 +24,7 @@ form{
 }
 input{
     width: 50%;
-    height: 50px;
-    border: none;
-    border-bottom: 1px solid black;
+    height: 40px;
     margin: 10px 0px;
     font-size: 14px;
     padding-left: 10px;
@@ -19,4 +32,9 @@ input{
 textarea{
     margin-top: 10px;
     width: 50%;
+    padding-left: 10px;
+}
+.con-bg{
+    background-color: #191919;
+    border-radius: 20px;
 }
