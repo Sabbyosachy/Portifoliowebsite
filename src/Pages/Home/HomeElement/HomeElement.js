@@ -13,9 +13,13 @@ const HomeElement = () => {
             <div className="row element">
                 <div data-aos="fade-up-right" className="col-md-6 col-12 info">
                     <p className="fw-bold">Hello I'm</p>
+                    <div data-aos="fade-left">
                     <h6 className="name">Sabbyosachy Chakraborty</h6>
+                    </div>
                     <h3 className="fw-bold subtitle">.</h3>
+                    <div data-aos="fade-right">
                     <p className="description">I am a professional web designer and developer.I spend my whole day, practically every day, experimenting creating, and developing fancy and unique websites. I am always ready to accept a new challenge. I build websites that delight and inform.Building applications with fronted operations.</p>
+                    </div>
                        <div data-aos="fade-down" className="button">
                            <button className="btn">About Me</button>
                            <a download href={img}><button className="btn">Resume <i class="fas fa-download"></i></button></a>

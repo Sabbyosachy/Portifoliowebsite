@@ -11,9 +11,17 @@
 }
 .contactinfo1{
     color: white;
-    padding-left: 30px;
     font-size: 40px;
     margin-top: 50px;
+}
+.tex{
+    color: white;
+}
+.icon{
+    padding-left: 30px;
+}
+.bars{
+    border-left: 2px solid white;
 }
 .fas{
     font-size: 20px;
@@ -27,12 +35,14 @@ input{
     height: 40px;
     margin: 10px 0px;
     font-size: 14px;
-    padding-left: 10px;
+    padding-left: 15px;
+    border-radius: 20px;
 }
 textarea{
     margin-top: 10px;
     width: 50%;
-    padding-left: 10px;
+    padding-left: 15px;
+    border-radius: 10px;
 }
 .con-bg{
     background-color: #191919;

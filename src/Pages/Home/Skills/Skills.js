@@ -13,7 +13,7 @@ const Skills = () => {
         Aos.init({duration:2000});
     },[]);
     return (
-        <div className="py-5 pt-5 mt-5  container">
+        <div id="skill" className="py-5 pt-5 mt-5  container">
               <div data-aos="fade-down">
               <h3 className="fw-bold">MY SKILLS</h3>
               <h6 className="sub">List of my skills</h6>

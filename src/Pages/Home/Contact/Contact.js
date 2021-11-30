@@ -36,11 +36,13 @@ const Contact = () => {
                            <p className="contactinfo"><i class="fas fa-envelope"></i>  sabbyosachychakraborty@gmail.com</p>
                            <br />
                            <p className="contactinfo"><i class="fas fa-map-marker-alt"></i>  Chattak,Sylhet,Bangladesh</p>
-                           <a className="contactinfo1" href="https://www.linkedin.com/in/sabbyosachy/"><i class="fab fa-linkedin"></i></a>
+                          <div className="icon">
+                          <a className="contactinfo1" href="https://www.linkedin.com/in/sabbyosachy/"><i class="fab fa-linkedin"></i></a>
                            <a className="contactinfo1" href="https://web.facebook.com/profile.php?id=100019469267782"><i class="fab fa-facebook-square"></i></a>
                            <a className="contactinfo1" href="https://github.com/Sabbyosachy"><i class="fab fa-github-square"></i></a>
+                          </div>
                       </div>
-                      <div data-aos="fade-left" className="col-md-6 col-12">
+                      <div data-aos="fade-left" className="col-md-6 col-12 bars">
                            <form ref={formRef} onSubmit={handleSubmit}>
                                <input type="text" placeholder="Name" name="user_name"/>
                                <br />
@@ -52,7 +54,7 @@ const Contact = () => {
                                <br />
                                <button className="btn">Submit Now</button>
                            </form>
-                           {done && <p>Thank You For Your Mail</p>}
+                           {done && <p className="tex">Thank You For Your Message</p>}
                       </div>
                   </div>
               </div>

@@ -1,6 +1,7 @@
 import Aos from 'aos';
 import React, { useEffect } from 'react';
 import { Card, CardGroup } from 'react-bootstrap';
+import './Skill.css';
 
 const Skill = (props) => {
     const{title,image}=props.ability;
@@ -10,7 +11,7 @@ const Skill = (props) => {
     return (
         <div>
             <CardGroup className="card-group">
-                <Card className="card">
+                <Card className="card shadow">
                     <div data-aos="zoom-in">
                     <Card.Img className="img-size w-50 mx-auto" variant="top" src={image} />
                     </div>

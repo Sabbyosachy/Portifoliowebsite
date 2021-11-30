@@ -4,6 +4,10 @@
 .aboutinfo{
     margin-top: 60px;
 }
+.bor{
+    border-left: 2px solid white;
+    margin-left: 10px;
+}
 .element-about{
     background-color: #191919;
     border-radius: 20px;

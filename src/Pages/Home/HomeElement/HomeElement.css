@@ -52,16 +52,13 @@ animation:animate infinite 15s ;
     0%{
         content: 'WEB DEVELOPER';
     }
-    25%{
+    33%{
         content: 'WEB DESIGNER';
     }
-    50%{
+    67%{
         content: 'MERN STACK DEVELOPER';
     }
-    75%{
-        content: 'FRONTEDN WEB DEVELOPER';
-    }
     100%{
-        content: 'FULL STACK DEVELOPER';
+        content: 'FRONTEDN WEB DEVELOPER';
     }
 }
